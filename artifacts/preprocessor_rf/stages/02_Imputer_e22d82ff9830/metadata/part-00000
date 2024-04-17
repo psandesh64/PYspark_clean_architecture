@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.ImputerModel","timestamp":1713281072216,"sparkVersion":"3.5.1","uid":"Imputer_e22d82ff9830","paramMap":{"strategy":"mean","outputCol":"children_imputed","inputCol":"children"},"defaultParamMap":{"strategy":"mean","outputCol":"Imputer_e22d82ff9830__output","relativeError":0.001,"missingValue":"NaN"}}

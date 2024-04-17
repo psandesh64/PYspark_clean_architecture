@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.ImputerModel","timestamp":1713281072095,"sparkVersion":"3.5.1","uid":"Imputer_f7e723703dd4","paramMap":{"inputCol":"bmi","strategy":"mean","outputCol":"bmi_imputed"},"defaultParamMap":{"missingValue":"NaN","strategy":"mean","relativeError":0.001,"outputCol":"Imputer_f7e723703dd4__output"}}

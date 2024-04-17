@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1713281073500,"sparkVersion":"3.5.1","uid":"VectorAssembler_564410527569","paramMap":{"outputCol":"categorical_features","inputCols":["sex_encoded","smoker_encoded","region_encoded"]},"defaultParamMap":{"outputCol":"VectorAssembler_564410527569__output","handleInvalid":"error"}}
